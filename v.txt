@@ -1,0 +1,34 @@
+#!/usr/bin/python3
+#coding=utf-8
+import os
+
+
+logo = """
+
+   [ version : 0.3 ]
+
+   ########     ########      #######  
+   ##     ##    ##     ##    ##     ## 
+   ##     ##    ##     ##    ##     ## 
+   ########     ########     ##     ## 
+   ##           ##   ##      ##     ## 
+   ##           ##    ##     ##     ## 
+   ##           ##     ##     #######  
+
+-----------------------------------------------
+  ➤ Author    : Rana Aahil
+  ➤ Github    : https://github.com/rsaprogrammers
+  ➤ Facebook  : RSA Programmer
+  Amateurs hack systems,professionals hack people
+-----------------------------------------------
+  Use flight (Airplane) mode if slow result
+----------------------------------------------- """
+
+
+def khatam():
+    os.system("clear")
+    print(logo)
+    print(" \t  Tery ko mana kea tha na kr use")
+    print("\t  khatam tata good bye gyaa")
+    khatam()
+khatam()
